@@ -1,0 +1,20 @@
+{
+	"examples": [
+		{
+			"orgnVal": "example1",
+			"strVal": "Example One",
+			"strList": [
+        "ex1",
+        "example1"
+      ]
+    },
+    {
+			"orgnVal": "example2",
+			"strVal": "Example Two",
+			"strList": [
+        "ex2",
+        "example2"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+[
+	{
+		"prefix": "#",
+		"commands" :[
+			{
+				"next": "bot",
+				"commands": [
+					{
+						"args": [
+							"ping"
+						],
+						"scripts": [
+							"ping.js"
+						]
+					},
+					{
+						"args": [
+							"pong"
+						],
+						"scripts": [
+							"pong.js"
+						]
+					}
+				]
+			}
+		]
+	}
+]
